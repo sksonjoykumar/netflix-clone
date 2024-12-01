@@ -111,18 +111,4 @@ This project can be deployed using services like Vercel, Netlify, or Firebase Ho
    vercel
    ```
 
-## Screenshots
 
-### Home Page
-![Home Page](./screenshots/home.png)
-
-### Player Page
-![Player Page](./screenshots/player.png)
-
-## Contributing
-
-Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License.
