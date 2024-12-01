@@ -2,7 +2,15 @@
 export default {
   content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        kaushan: ["Kaushan Script", "cursive"],
+        gelasio: ["Gelasio", "serif"],
+        outfit: ["Outfit", "serif"],
+        inter: ["inter", "serif"],
+      },
+     
+    },
   },
   plugins: [],
 };
